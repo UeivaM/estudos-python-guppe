@@ -1,0 +1,68 @@
+body{
+    background: #E6E6FA;
+    }
+
+.image_topo {
+    border: 3px solid black;
+    border-radius: 5%;
+    }
+#title, .subtitle, .post_title {
+    color: black;
+}
+
+#title {
+
+    font-family: Maiandra GD;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+.subtitle {
+
+    font-family: Perpetua;
+}
+
+.post_title {
+    font-size: 20px;
+    font-family: Perpetua;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+.post {
+    background: white;
+    padding: 15px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    font-family: Garamond;
+    font-size: 20px;
+} 
+
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_image {
+    margin-bottom: 15px;
+}
+
+.contacts_list {
+    list-style-type: none;
+    font-family: Calibri;
+    font-size: 15px;
+    padding-left: 15px;
+    margin: 0;
+}
+
+.contacts_list li a {
+
+    text-decoration: none;
+}
